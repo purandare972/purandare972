@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @purandare972
+- 👋 Hi, I’m @gpurandare972
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on web projects
