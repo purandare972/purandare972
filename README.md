@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gpurandare972
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on web projects
 - 📫 Reach me at gargipurandare14@gmail.com
