@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gpurandare972
+- 👋 Hi, I'm Gargi 
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently pursuing Computer Engineering
-- 💞️ I’m looking to collaborate on web projects
+- 💻 I’m looking to collaborate on web projects
 - 📫 Reach me at gargipurandare14@gmail.com
 
 <!---
