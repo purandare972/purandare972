@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Gargi 
 - 👀 I’m interested in Data Science 
-- 🌱 I’m currently pursuing Computer Engineering
+- 🌱 I’m currently pursuing Masters in Applied Computing
 - 💻 I’m looking to collaborate on web projects
 - 📫 Reach me at gargipurandare14@gmail.com
 
